@@ -1,31 +1,39 @@
 # ml-research-companion
 ML Research Companion is my curated log of research papers in Machine Learning. It progresses from core foundations (optimization, CNNs, transformers) to practical frameworks (TensorFlow, PyTorch, ONNX) and advanced ML systems (deployment, edge AI, scalability), with concise notes, key ideas, and insights.
 
-# ML Research Companion 🚀
+# 📚 ML Research Companion  
 
-Welcome to **ML Research Companion**, my personal log of key research papers and technical insights in **Machine Learning**.  
-This repository documents my journey from core ML theory to applied systems — designed as a **reference hub** for fast recall and practical learning.
-
----
-
-## 📌 Scope
-- **Foundations**: Optimization, CNNs, RNNs, Transformers, Self-Supervised Learning.  
-- **Frameworks**: TensorFlow, PyTorch, ONNX, JAX.  
-- **Systems & Deployment**: Edge AI, inference optimization, model compression, distributed training, scalability.  
-
-Each paper or topic includes:
-- ✅ Concise summary in **simple language**  
-- 🔑 Key contributions & takeaways  
-- 🛠️ Practical notes for implementation or real-world use  
+> A curated personal learning log of **Machine Learning research papers** — from core foundations to advanced systems.  
 
 ---
 
-## 📂 Structure
-ml-research-companion/
-│── foundations/ # Core ML papers & theory
-│── frameworks/ # TensorFlow, PyTorch, ONNX, JAX
-│── systems/ # Deployment, edge AI, scalability
-│── summaries/ # Notes & takeaways (markdowns)
+## 🚀 Overview  
+**ML Research Companion** is my ongoing journey through the world of ML research.  
+I’m documenting and summarizing papers in a way that’s:  
+- **Concise** – Clear takeaways, no fluff.  
+- **Technical** – Core math, key algorithms, and system insights.  
+- **Practical** – Links to frameworks, implementations, and use cases.  
 
+This repo follows a progression:  
+1. **Foundations** – Optimization, CNNs, RNNs, Transformers.  
+2. **Frameworks** – TensorFlow, PyTorch, ONNX, interoperability.  
+3. **Systems** – Deployment, efficiency, edge AI, distributed training, scalability.  
 
+---
 
+## 📝 What You’ll Find  
+- 📄 **Paper Summaries** – Simplified but precise explanations.  
+- 💡 **Key Ideas** – Core contributions and why they matter.  
+- 🛠 **Takeaways** – Insights for researchers, engineers, and builders.  
+- 🔗 **References** – Links to original papers, blogs, and code.  
+
+---
+
+## 📂 Repo Structure  
+```bash
+ML-Research-Companion/
+│── papers/        # Summaries of individual papers
+│── notes/         # Topic-wise notes
+│── frameworks/    # PyTorch, TF, ONNX resources
+│── systems/       # Deployment, efficiency, edge AI
+│── README.md      # You are here 🚀
