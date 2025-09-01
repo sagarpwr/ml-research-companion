@@ -2,7 +2,7 @@
 
 # 📚 ML Research Companion  
 
-> A curated personal learning log of **Machine Learning research papers** — from core foundations to advanced systems.  
+> A curated personal learning log of **Machine Learning research papers** - from core foundations to advanced systems.  
 
 ---
 
